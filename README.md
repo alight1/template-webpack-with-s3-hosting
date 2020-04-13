@@ -32,7 +32,6 @@ module.exports = {
   * [webpack-s3-uploader](https://www.npmjs.com/package/webpack-s3-uploader) for automated publish to AWS S3 bucket as web server (AWS CloudFront, Route 53, and Certificate Manager complete DNS and secure server functionality).
 
 ### Hosting documentation
-
 * [Amazon S3 - Configuring a Static Website](https://docs.aws.amazon.com/AmazonS3/latest/dev/HostingWebsiteOnS3Setup.html)
 * [Configuring a Static Website Using a Custom Domain Registered with Route 53](https://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html)
 * [Use CloudFront to serve a static website hosted on Amazon S3](https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-serve-static-website/)
