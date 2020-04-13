@@ -1,12 +1,15 @@
 # Webpack template with S3 auto-publish
-**[View demo online](https://lightmotive.pro/[published site folder]/)**
 
-## A responsive web page created with the following concepts
+**[Online demo](https://lightmotive.pro/[published site folder]/)**
+
+## Concept overview
 
 * Concept 1
 * Concept 2
 
-## Project config
+## Common
+
+### Project config
 * Run `npm install`
 * View available scripts in package.json.
 
@@ -21,8 +24,6 @@ module.exports = {
   AWS_BUCKET_BASE_PATH: 'bucket-folder-name-or-/path/to/-or-empty-string'
 };
 ```
-
-## Common
 
 ### Concepts
 * NPM + Webpack to securely automate build, test, and publish processes
