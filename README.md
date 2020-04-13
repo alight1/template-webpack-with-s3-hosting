@@ -7,6 +7,10 @@
 * Concept 1
 * Concept 2
 
+**See also:** [Common concepts, config, and documentation](https://github.com/alight1/template-webpack-with-s3-hosting#common)
+
+____
+
 ## Common
 
 ### Project config
