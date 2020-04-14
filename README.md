@@ -37,7 +37,8 @@ module.exports = {
 - NPM + Webpack to securely automate build, test, and publish processes
   - Webpack with multiple configuration files for dev and prod builds.
   - Webpack dev server with watch and npm-run-all for concurrent process local discovery testing (automated testing coming soon).
-  - [webpack-s3-uploader](https://www.npmjs.com/package/webpack-s3-uploader) for automated publish to AWS S3 bucket as web server (AWS CloudFront, Route 53, and Certificate Manager complete DNS and secure server functionality).
+  - [webpack-s3-uploader](https://www.npmjs.com/package/webpack-s3-uploader) for automated publish to AWS S3 bucket as web server.
+    - AWS CloudFront, Route 53, and Certificate Manager provide CDN, DNS and TLS certificate functionality.
 
 ### Hosting documentation
 
