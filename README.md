@@ -1,5 +1,7 @@
 # Webpack template with S3 auto-publish
 
+A simple AWS S3-hosted webpack website template with plans to convert it to a webpack plugin distributed via npm.
+
 ## To do
 
 - [ ] Create a webpack plugin hosted as a private npm package (lightmotive-s3-hosted-website-webpack) to eliminate copy/paste from this "template repository"
