@@ -2,12 +2,13 @@
 
 ## To do
 
-- [ ] Create a private npm package (lightmotive-s3-hosted-website) to eliminate copy/paste
-  - [ ] Enable a centralized (multi-project) config-secure.js
+- [ ] Create a webpack plugin hosted as a private npm package (lightmotive-s3-hosted-website-webpack) to eliminate copy/paste from this "template repository"
+  - [ ] Package init command that replaces copy/paste.
+  - [ ] Enable a centralized (multi-project) config-secure.js (maybe specify config-secure.js file path in a separate package-config.js file)
 
 **[Online demo](https://lightmotive.pro/[published site folder]/)**
 
-## Concept overview
+## Demonstrated concepts
 
 - Concept 1
 - Concept 2
