@@ -1,5 +1,10 @@
 # Webpack template with S3 auto-publish
 
+## To do
+
+- [ ] Create a private npm package (lightmotive-s3-hosted-website) to eliminate copy/paste
+  - [ ] Enable a centralized (multi-project) config-secure.js
+
 **[Online demo](https://lightmotive.pro/[published site folder]/)**
 
 ## Concept overview
