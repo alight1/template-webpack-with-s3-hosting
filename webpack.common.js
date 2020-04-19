@@ -23,20 +23,20 @@ module.exports = {
         use: ["style-loader", "css-loader"],
       },
       {
-        test: /\.(jpe?g|png|gif)$/,
+        test: /\.(jpe?g|png|gif|svg)$/,
         loader: "url-loader",
         options: {
           // Images larger than 1 KB won’t be inlined
           limit: 1024,
         },
       },
-      {
-        test: /\.svg$/i,
-        use: {
-          loader: "svg-url-loader",
-          options: {},
-        },
-      },
+      // {
+      //   test: /\.svg$/i,
+      //   use: {
+      //     loader: "svg-url-loader",
+      //     options: {},
+      //   },
+      // },
     ],
   },
 };
