@@ -16,7 +16,7 @@ module.exports = merge(common, {
       },
       s3UploadOptions: {
         Bucket: configSecure.AWS_BUCKET_NAME,
-        CacheControl: "max-age=‭31536000‬",
+        CacheControl: "max-age=31536000",
       },
       basePath: configSecure.AWS_BUCKET_BASE_PATH,
       exclude: "index.html",
