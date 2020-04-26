@@ -12,6 +12,9 @@ A simple AWS S3-hosted webpack website template with plans to convert it to a we
 
 ## Demonstrated concepts
 
+**Main languages:** ..., ...
+**Libraries:** ..., ...
+
 - Concept 1
 - Concept 2
 
